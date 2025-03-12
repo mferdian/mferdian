@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maulana</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel**, **Firebase**, **Flutter**
 - 📫 How to reach me **eikhapoetra@gmail.com**
 
 # 💻 Tech Stack:
