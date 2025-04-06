@@ -36,10 +36,6 @@ I'm a passionate **Software Developer** with expertise in **Backend Development*
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maulanaferdiansyah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanaferdiansyah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css" alt="Most Used Languages" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maulanaferdiansyah&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=mferdian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=mferdian&theme=dark&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mferdian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
